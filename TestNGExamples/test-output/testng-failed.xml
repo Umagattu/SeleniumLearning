@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [Sample Suite]">
+  <test thread-count="2" name="Chrome Test(failed)">
+    <parameter name="browser" value="Chrome"/>
+    <classes>
+      <class name="com.uma.framework.FirstEample">
+        <methods>
+          <include name="beforeTestMethod"/>
+          <include name="beforeMethodExample"/>
+          <include name="afterSuiteMethod"/>
+          <include name="afterTestMethod"/>
+          <include name="afterClassMethod"/>
+          <include name="beforeSuiteMethod"/>
+          <include name="beforeClassMethod"/>
+          <include name="verifyHeaderFormText"/>
+          <include name="afterMethodExample"/>
+        </methods>
+      </class> <!-- com.uma.framework.FirstEample -->
+    </classes>
+  </test> <!-- Chrome Test(failed) -->
+</suite> <!-- Failed suite [Sample Suite] -->

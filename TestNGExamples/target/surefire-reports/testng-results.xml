@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Sample Suite" duration-ms="46644" started-at="2020-04-24T05:58:35Z" finished-at="2020-04-24T05:59:22Z">
+    <groups>
+    </groups>
+    <test name="Chrome Test" duration-ms="46644" started-at="2020-04-24T05:58:35Z" finished-at="2020-04-24T05:59:22Z">
+      <class name="com.uma.framework.FirstEample">
+        <test-method status="PASS" signature="beforeSuiteMethod()[pri:0, instance:com.uma.framework.FirstEample@b487062f]" name="beforeSuiteMethod" is-config="true" duration-ms="22" started-at="2020-04-24T05:58:35Z" finished-at="2020-04-24T05:58:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuiteMethod -->
+        <test-method status="PASS" signature="beforeTestMethod(java.lang.String)[pri:0, instance:com.uma.framework.FirstEample@b487062f]" name="beforeTestMethod" is-config="true" duration-ms="21108" started-at="2020-04-24T05:58:35Z" finished-at="2020-04-24T05:58:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestMethod -->
+        <test-method status="PASS" signature="beforeClassMethod()[pri:0, instance:com.uma.framework.FirstEample@b487062f]" name="beforeClassMethod" is-config="true" duration-ms="1" started-at="2020-04-24T05:58:57Z" finished-at="2020-04-24T05:58:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClassMethod -->
+        <test-method status="PASS" signature="beforeMethodExample()[pri:0, instance:com.uma.framework.FirstEample@b487062f]" name="beforeMethodExample" is-config="true" duration-ms="1" started-at="2020-04-24T05:58:57Z" finished-at="2020-04-24T05:58:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodExample -->
+        <test-method status="PASS" signature="enterFirstName()[pri:0, instance:com.uma.framework.FirstEample@b487062f]" name="enterFirstName" duration-ms="22808" started-at="2020-04-24T05:58:57Z" finished-at="2020-04-24T05:59:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterFirstName -->
+        <test-method status="PASS" signature="afterMethodExample()[pri:0, instance:com.uma.framework.FirstEample@b487062f]" name="afterMethodExample" is-config="true" duration-ms="0" started-at="2020-04-24T05:59:20Z" finished-at="2020-04-24T05:59:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodExample -->
+        <test-method status="PASS" signature="beforeMethodExample()[pri:0, instance:com.uma.framework.FirstEample@b487062f]" name="beforeMethodExample" is-config="true" duration-ms="1" started-at="2020-04-24T05:59:20Z" finished-at="2020-04-24T05:59:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodExample -->
+        <test-method status="PASS" signature="enterLastName()[pri:1, instance:com.uma.framework.FirstEample@b487062f]" name="enterLastName" duration-ms="1663" started-at="2020-04-24T05:59:20Z" finished-at="2020-04-24T05:59:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterLastName -->
+        <test-method status="PASS" signature="afterMethodExample()[pri:0, instance:com.uma.framework.FirstEample@b487062f]" name="afterMethodExample" is-config="true" duration-ms="1" started-at="2020-04-24T05:59:21Z" finished-at="2020-04-24T05:59:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodExample -->
+        <test-method status="PASS" signature="beforeMethodExample()[pri:0, instance:com.uma.framework.FirstEample@b487062f]" name="beforeMethodExample" is-config="true" duration-ms="0" started-at="2020-04-24T05:59:21Z" finished-at="2020-04-24T05:59:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodExample -->
+        <test-method status="PASS" signature="enterMiddleName()[pri:2, instance:com.uma.framework.FirstEample@b487062f]" name="enterMiddleName" duration-ms="318" started-at="2020-04-24T05:59:21Z" finished-at="2020-04-24T05:59:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterMiddleName -->
+        <test-method status="PASS" signature="afterMethodExample()[pri:0, instance:com.uma.framework.FirstEample@b487062f]" name="afterMethodExample" is-config="true" duration-ms="1" started-at="2020-04-24T05:59:22Z" finished-at="2020-04-24T05:59:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodExample -->
+        <test-method status="PASS" signature="beforeMethodExample()[pri:0, instance:com.uma.framework.FirstEample@b487062f]" name="beforeMethodExample" is-config="true" duration-ms="1" started-at="2020-04-24T05:59:22Z" finished-at="2020-04-24T05:59:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodExample -->
+        <test-method status="PASS" signature="verifyHeaderFormText()[pri:3, instance:com.uma.framework.FirstEample@b487062f]" name="verifyHeaderFormText" duration-ms="110" started-at="2020-04-24T05:59:22Z" finished-at="2020-04-24T05:59:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHeaderFormText -->
+        <test-method status="PASS" signature="afterClassMethod()[pri:0, instance:com.uma.framework.FirstEample@b487062f]" name="afterClassMethod" is-config="true" duration-ms="1" started-at="2020-04-24T05:59:22Z" finished-at="2020-04-24T05:59:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClassMethod -->
+        <test-method status="PASS" signature="afterMethodExample()[pri:0, instance:com.uma.framework.FirstEample@b487062f]" name="afterMethodExample" is-config="true" duration-ms="0" started-at="2020-04-24T05:59:22Z" finished-at="2020-04-24T05:59:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodExample -->
+        <test-method status="PASS" signature="afterTestMethod()[pri:0, instance:com.uma.framework.FirstEample@b487062f]" name="afterTestMethod" is-config="true" duration-ms="0" started-at="2020-04-24T05:59:22Z" finished-at="2020-04-24T05:59:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestMethod -->
+        <test-method status="PASS" signature="afterSuiteMethod()[pri:0, instance:com.uma.framework.FirstEample@b487062f]" name="afterSuiteMethod" is-config="true" duration-ms="0" started-at="2020-04-24T05:59:22Z" finished-at="2020-04-24T05:59:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuiteMethod -->
+      </class> <!-- com.uma.framework.FirstEample -->
+    </test> <!-- Chrome Test -->
+  </suite> <!-- Sample Suite -->
+</testng-results>
